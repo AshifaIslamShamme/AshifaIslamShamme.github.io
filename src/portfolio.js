@@ -13,7 +13,7 @@ const greeting = {
   title2: 'Priyanshu',
   logo_name: 'Pboss.js()',
   nickname: 'Pboss',
-  full_name: 'Ashifa Rajput',
+  full_name: 'Ashifa LOL',
   subTitle: [
     'Full Stack Developer',
     'Machine Learning Enthusiast',
